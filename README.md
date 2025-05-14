@@ -42,20 +42,6 @@ Then run the app.
 preswald run
 ```
 
-## 📁 Folder Structure
-
-monument-dashboard/
-├── hello.py
-├── preswald.toml
-├── pyproject.toml
-├── README.md
-├── .gitignore
-├── data/
-│   └── monuments_geo.geojson
-├── images/
-│   ├── logo.png
-│   └── favicon.ico
-└── dist/         # (created after export)
 
 ## 💡 Credits
 
